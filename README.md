@@ -1,5 +1,6 @@
 # Multistage-batch-reactor-model
 Python model of multistage semibatch reactor with multiple reactions and temperature PID controller. The same structure can be easily replicated for other systems.
+
 The model is composed of 3 polysubstitution reactions which are simultaneously in parallel and in series,
 
 $$ \ce{A + B ->[k_{1}] R} \ , $$
