@@ -14,7 +14,7 @@ All three reactions are assumed to be exothermic, i.e., $\Delta H_{reaction,i} <
 A schematic representation of the semibatch reactor is shown below. The reactor is assumed to be a perfectly stirred tank, meaning that there are no concentration and temperature gradients spatially ($\frac{\partial C_{i}}{\partial x} = 0$, where x can be any of the 3 dimensional Cartesian coordinates). Instead, these state variables vary over time according to the system dynamics of the model. Chill water is circulated through a cooling jacket to control the reactor temperature. Hence, the control variable is the cooling water flow-rate $q_{c} (t)$, while the controlled variable is the reactor temperature $T(t)$. In order to avoid a thermal runaway, reactant B is added semi-continuously, so as to keep reaction rates limited.
 
 <p align="center">
-    <img src = Semibatch_reactor.png width = "500" height = "350" >
+    <img src = Semibatch_reactor.png width = "500" height = "450" >
 </p>
 
 The model is composed of a system of Ordinary Differential Equations consisting of the material and energy balances of the process. The generic material balances for all the reactants, intermediates and products are 
