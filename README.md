@@ -60,5 +60,5 @@ It was assumed that the reaction requires no initiator, and only depends on the 
 The simulation results are:
 
 <p align="center">
-    <img src = Simulation_results.png width = "600" height = "1000" >
+    <img src = Simulation_results.png width = "600" height = "1200" >
 </p>
