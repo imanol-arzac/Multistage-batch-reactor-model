@@ -62,3 +62,9 @@ The simulation results are:
 <p align="center">
     <img src = Simulation_results.png width = "600" height = "1200" >
 </p>
+
+## Reference
+<a id="1">[1]</a> 
+Arzac, I. I. (2022). 
+Comparison of Dynamic Time Warping algorithms for statistical batch process monitoring. 
+Master thesis, Katholieke Universiteit Leuven.
